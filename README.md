@@ -14,7 +14,9 @@
 
 
 ### ScreenShot  
-![](screnshot1.jpeg | width=200) ![](screnshot2.jpeg | width=200)
+![](screnshot1.jpeg) ![](screnshot2.jpeg)
+
+
 ## Contribuitors:
 
 * [Yan Agassi](https://www.github.com/yanagassi)
