@@ -15,8 +15,7 @@
 
 ### ScreenShot  
 <center>
-<img src="screnshot1.jpeg" width="150" >
-<img src="screnshot2.jpeg" width="150" >
+<img src="screnshot1.jpeg" width="150" ><img src="screnshot2.jpeg" width="150" >
 </center>
 
 
