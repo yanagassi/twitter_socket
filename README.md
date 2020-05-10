@@ -14,13 +14,7 @@
 
 
 ### ScreenShot  
-<center>
-    <img src="screnshot1.jpeg"  width="200" height="400" />
-    <img src="screnshot2.jpeg"  width="200" height="400" />
-</center>
-
-
-
+![](screnshot1.jpeg | width=200) ![](screnshot2.jpeg | width=200)
 ## Contribuitors:
 
 * [Yan Agassi](https://www.github.com/yanagassi)
