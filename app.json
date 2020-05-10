@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "twitter_socket",
+    "slug": "twitter_socket",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/topo_twitter.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#16202A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "androidStatusBar": {
+      "hidden": false,
+      "translucent": true,
+      "barStyle": "light-content",
+      "backgroundColor": "#16202A"
+    }
+  }
+}
