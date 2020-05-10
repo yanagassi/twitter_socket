@@ -13,13 +13,18 @@
      Real-time connection of all users
 
 
-### ScreenShot 
-![ScreenShot](screnshot2.jpeg)
-![ScreenShot](screnshot1.jpeg)
+### ScreenShot  
+<center>
+    <img src="screnshot1.jpeg"  width="200" height="400" />
+    <img src="screnshot2.jpeg"  width="200" height="400" />
+</center>
 
- 
+
 
 ## Contribuitors:
 
 * [Yan Agassi](https://www.github.com/yanagassi)
- 
+
+
+
+![](https://media.tenor.com/images/353a0741523131f5293e02ae6c93d5c3/tenor.gif)
