@@ -14,7 +14,7 @@
 
 
 ### ScreenShot  
-![](screnshot1.jpeg) ![](screnshot2.jpeg)
+![](screnshot1.jpeg){:width="45%"} ![](screnshot2.jpeg){:width="45%"}
 
 
 ## Contribuitors:
